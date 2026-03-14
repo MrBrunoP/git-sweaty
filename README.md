@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="./heatmap-logo.svg alt="git-sweaty-logo" /><br>
- </p>
+  <img src="./heatmap-logo.svg" alt="git-sweaty-logo" /><br>
+</p>
 
 # 🏃‍♂️ Bruno's Training Dashboard
 
