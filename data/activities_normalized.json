@@ -10111,5 +10111,18 @@
     "start_date_local": "2026-03-11T16:54:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 14013.0,
+    "elevation_gain": 769.0,
+    "id": "17723029326",
+    "moving_time": 8300.0,
+    "name": "Trail c/ os Lobos! SIGA \ud83d\ude80",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-03-14T16:12:54Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
