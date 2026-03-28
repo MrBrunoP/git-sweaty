@@ -10228,5 +10228,18 @@
     "start_date_local": "2026-03-25T17:38:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 6657.9,
+    "elevation_gain": 37.0,
+    "id": "17879968711",
+    "moving_time": 2299.0,
+    "name": "nice and easy \ud83d\udc31",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-27T18:12:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
