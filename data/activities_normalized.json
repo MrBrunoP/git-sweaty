@@ -10261,10 +10261,23 @@
     "elevation_gain": 58.0,
     "id": "17912278401",
     "moving_time": 881.0,
-    "name": "Afternoon Walk",
+    "name": "\ud83e\udd8e\ud83e\udd8e\ud83e\udd8e",
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-03-30T14:10:30Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 1397.0,
+    "elevation_gain": 40.0,
+    "id": "17914426288",
+    "moving_time": 1578.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-30T17:24:57Z",
     "type": "Walk",
     "year": 2026
   }
