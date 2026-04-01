@@ -10280,5 +10280,44 @@
     "start_date_local": "2026-03-30T17:24:57Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 4129.0,
+    "elevation_gain": 87.0,
+    "id": "17929138178",
+    "moving_time": 4135.0,
+    "name": "Touristando \ud83c\udf4c",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-31T17:05:42Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 1917.0,
+    "elevation_gain": 87.0,
+    "id": "17936045738",
+    "moving_time": 2360.0,
+    "name": "Morning Hike \ud83d\udc04\ud83d\udc2e",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-01T10:43:24Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 1823.1,
+    "elevation_gain": 95.0,
+    "id": "17937627388",
+    "moving_time": 1660.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-01T13:37:23Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
