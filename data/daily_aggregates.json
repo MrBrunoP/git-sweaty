@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T16:07:29.319941+00:00",
+  "generated_at": "2026-04-02T15:57:09.846197+00:00",
   "years": {
     "2011": {
       "Hike": {
@@ -5428,6 +5428,16 @@
           "distance": 1917.0,
           "elevation_gain": 87.0,
           "moving_time": 2360.0
+        },
+        "2026-04-02": {
+          "activity_ids": [
+            "17947621592",
+            "17950297603"
+          ],
+          "count": 2,
+          "distance": 3952.0,
+          "elevation_gain": 53.0,
+          "moving_time": 3551.0
         }
       },
       "MountainBikeRide": {
@@ -5876,12 +5886,13 @@
         },
         "2026-04-01": {
           "activity_ids": [
-            "17937627388"
+            "17937627388",
+            "17940200638"
           ],
-          "count": 1,
-          "distance": 1823.1,
-          "elevation_gain": 95.0,
-          "moving_time": 1660.0
+          "count": 2,
+          "distance": 2297.1,
+          "elevation_gain": 112.0,
+          "moving_time": 2204.0
         }
       },
       "Workout": {
