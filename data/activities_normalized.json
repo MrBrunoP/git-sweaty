@@ -10358,5 +10358,18 @@
     "start_date_local": "2026-04-02T14:43:51Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 8068.0,
+    "elevation_gain": 232.0,
+    "id": "17965760106",
+    "moving_time": 3204.0,
+    "name": "Hill Repeats \ud83d\udc80",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-03T18:13:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
