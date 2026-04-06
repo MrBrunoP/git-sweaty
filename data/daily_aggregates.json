@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T15:28:24.561754+00:00",
+  "generated_at": "2026-04-06T15:42:00.371663+00:00",
   "years": {
     "2011": {
       "Hike": {
@@ -5917,9 +5917,9 @@
             "17985852246"
           ],
           "count": 1,
-          "distance": 2365.0,
-          "elevation_gain": 4.0,
-          "moving_time": 1823.0
+          "distance": 2345.0,
+          "elevation_gain": 8.0,
+          "moving_time": 1811.0
         }
       },
       "Workout": {
