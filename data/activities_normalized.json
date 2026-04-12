@@ -10449,5 +10449,44 @@
     "start_date_local": "2026-04-10T18:39:56Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 1168.0,
+    "elevation_gain": 19.0,
+    "id": "18070987030",
+    "moving_time": 919.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-11T20:38:03Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 7300.6,
+    "elevation_gain": 91.0,
+    "id": "18075757580",
+    "moving_time": 2051.0,
+    "name": "Mini Vila Real \ud83c\udfc3\ud83d\udca8",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T09:30:54Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 1027.2,
+    "elevation_gain": 15.0,
+    "id": "18076475315",
+    "moving_time": 601.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T10:24:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
