@@ -10488,5 +10488,31 @@
     "start_date_local": "2026-04-12T10:24:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 334.7,
+    "elevation_gain": 5.0,
+    "id": "18094657888",
+    "moving_time": 110.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-13T18:51:15Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 5812.0,
+    "elevation_gain": 55.0,
+    "id": "18094657921",
+    "moving_time": 1800.0,
+    "name": "Aproveitar a fresca \ud83c\udf43",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-13T18:20:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
