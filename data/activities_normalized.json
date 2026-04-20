@@ -10556,10 +10556,10 @@
   },
   {
     "date": "2026-04-19",
-    "distance": 323.0,
-    "elevation_gain": 28.0,
+    "distance": 257.0,
+    "elevation_gain": 20.0,
     "id": "18168536595",
-    "moving_time": 240.0,
+    "moving_time": 176.0,
     "name": "Morning Walk",
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
@@ -10573,11 +10573,24 @@
     "elevation_gain": 104.0,
     "id": "18168537693",
     "moving_time": 5570.0,
-    "name": "Morning Run \u2615\ud83d\udca8",
+    "name": "Morning Run \ud83c\udf73",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-04-19T08:42:06Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 924.5,
+    "elevation_gain": 18.0,
+    "id": "18176563737",
+    "moving_time": 689.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-19T19:38:58Z",
+    "type": "Walk",
     "year": 2026
   }
 ]
