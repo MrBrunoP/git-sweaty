@@ -10592,5 +10592,18 @@
     "start_date_local": "2026-04-19T19:38:58Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 7148.9,
+    "elevation_gain": 63.0,
+    "id": "18187513916",
+    "moving_time": 2840.0,
+    "name": "Z2 Run \ud83d\udc0c\ud83d\udca8",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-20T18:13:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
