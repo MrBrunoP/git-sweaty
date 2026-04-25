@@ -10618,5 +10618,31 @@
     "start_date_local": "2026-04-22T18:01:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 752.0,
+    "elevation_gain": 0.0,
+    "id": "18248353788",
+    "moving_time": 284.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-25T09:49:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 9705.0,
+    "elevation_gain": 101.0,
+    "id": "18249483101",
+    "moving_time": 2876.0,
+    "name": "Corrida da Liberdade - Chaves \ud83c\udf39",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-25T10:26:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
