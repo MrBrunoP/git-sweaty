@@ -10657,5 +10657,31 @@
     "start_date_local": "2026-04-26T09:53:13Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 14999.8,
+    "elevation_gain": 32.6,
+    "id": "18270361589",
+    "moving_time": 1806.0,
+    "name": "[MyWhoosh] 30min Workout - Heian Samurai Circuit",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-26T17:52:46Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18270488364",
+    "moving_time": 363.0,
+    "name": "8 min abs",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-26T19:28:09Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
