@@ -10683,5 +10683,18 @@
     "start_date_local": "2026-04-26T19:28:09Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 5625.0,
+    "elevation_gain": 50.0,
+    "id": "18295483431",
+    "moving_time": 1726.0,
+    "name": "Mesmo antes da chuvinha \ud83d\ude01\u2614",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-28T18:13:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
