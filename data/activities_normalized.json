@@ -10696,5 +10696,18 @@
     "start_date_local": "2026-04-28T18:13:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 14413.3,
+    "elevation_gain": 606.0,
+    "id": "18332684453",
+    "moving_time": 12301.0,
+    "name": "PR6 AMT Rio Mar\u00e3o \u26f0\ufe0f",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-01T09:40:39Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
