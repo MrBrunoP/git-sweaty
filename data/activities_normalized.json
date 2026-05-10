@@ -10787,5 +10787,18 @@
     "start_date_local": "2026-05-08T18:19:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 21231.6,
+    "elevation_gain": 187.0,
+    "id": "18450846768",
+    "moving_time": 6441.0,
+    "name": "Meia Maratona das Cantarinhas \u26a1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-10T10:09:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
