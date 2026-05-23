@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T17:05:17.339232+00:00",
+  "generated_at": "2026-05-23T15:59:42.455834+00:00",
   "years": {
     "2011": {
       "Hike": {
@@ -5469,6 +5469,17 @@
           "moving_time": 8499.0
         }
       },
+      "Padel": {
+        "2026-05-23": {
+          "activity_ids": [
+            "18618472880"
+          ],
+          "count": 1,
+          "distance": 870.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1840.0
+        }
+      },
       "Run": {
         "2026-01-01": {
           "activity_ids": [
@@ -5932,6 +5943,15 @@
           "distance": 10011.0,
           "elevation_gain": 37.0,
           "moving_time": 3191.0
+        },
+        "2026-05-22": {
+          "activity_ids": [
+            "18612824949"
+          ],
+          "count": 1,
+          "distance": 6606.0,
+          "elevation_gain": 77.0,
+          "moving_time": 2253.0
         }
       },
       "TrailRun": {

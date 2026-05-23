@@ -5844,6 +5844,20 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 20,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 9,
+      "subtype": "Padel",
+      "type": "Padel",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11315,6 +11329,17 @@
           "moving_time": 8499.0
         }
       },
+      "Padel": {
+        "2026-05-23": {
+          "activity_ids": [
+            "18618472880"
+          ],
+          "count": 1,
+          "distance": 870.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1840.0
+        }
+      },
       "Run": {
         "2026-01-01": {
           "activity_ids": [
@@ -11778,6 +11803,15 @@
           "distance": 10011.0,
           "elevation_gain": 37.0,
           "moving_time": 3191.0
+        },
+        "2026-05-22": {
+          "activity_ids": [
+            "18612824949"
+          ],
+          "count": 1,
+          "distance": 6606.0,
+          "elevation_gain": 77.0,
+          "moving_time": 2253.0
         }
       },
       "TrailRun": {
@@ -12157,7 +12191,7 @@
       }
     }
   },
-  "generated_at": "2026-05-22T17:05:17.349763+00:00",
+  "generated_at": "2026-05-23T15:59:42.468850+00:00",
   "other_bucket": "OtherSports",
   "repo": "MrBrunoP/git-sweaty",
   "source": "strava",
@@ -12181,6 +12215,10 @@
     "MountainBikeRide": {
       "accent": "#f15bb5",
       "label": "Mountain Bike Ride"
+    },
+    "Padel": {
+      "accent": "#ffbe0b",
+      "label": "Padel"
     },
     "Ride": {
       "accent": "#05ffa1",
@@ -12238,7 +12276,8 @@
     "Walk",
     "WeightTraining",
     "Workout",
-    "Yoga"
+    "Yoga",
+    "Padel"
   ],
   "units": {
     "distance": "km",

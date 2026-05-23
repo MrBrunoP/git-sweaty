@@ -10852,5 +10852,31 @@
     "start_date_local": "2026-05-20T20:14:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 6606.0,
+    "elevation_gain": 77.0,
+    "id": "18612824949",
+    "moving_time": 2253.0,
+    "name": "Evening Run \ud83c\udf55",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-22T20:51:44Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 870.0,
+    "elevation_gain": 0.0,
+    "id": "18618472880",
+    "moving_time": 1840.0,
+    "name": "Morning Padel \ud83c\udfbe",
+    "raw_activity_type": "Workout",
+    "raw_type": "Padel",
+    "start_date_local": "2026-05-23T09:17:42Z",
+    "type": "Padel",
+    "year": 2026
   }
 ]
