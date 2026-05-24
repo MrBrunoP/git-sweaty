@@ -5858,6 +5858,13 @@
       "subtype": "Padel",
       "type": "Padel",
       "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 8,
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11832,6 +11839,15 @@
           "distance": 14013.0,
           "elevation_gain": 769.0,
           "moving_time": 8300.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18632237731"
+          ],
+          "count": 1,
+          "distance": 11545.5,
+          "elevation_gain": 517.0,
+          "moving_time": 6395.0
         }
       },
       "VirtualRide": {
@@ -12191,7 +12207,7 @@
       }
     }
   },
-  "generated_at": "2026-05-23T15:59:42.468850+00:00",
+  "generated_at": "2026-05-24T15:58:05.933970+00:00",
   "other_bucket": "OtherSports",
   "repo": "MrBrunoP/git-sweaty",
   "source": "strava",

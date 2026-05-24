@@ -10878,5 +10878,18 @@
     "start_date_local": "2026-05-23T09:17:42Z",
     "type": "Padel",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 11545.5,
+    "elevation_gain": 517.0,
+    "id": "18632237731",
+    "moving_time": 6395.0,
+    "name": "Morning Trail Run \ud83c\udf47",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-24T08:55:54Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
