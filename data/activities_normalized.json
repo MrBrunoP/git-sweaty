@@ -10917,5 +10917,18 @@
     "start_date_local": "2026-05-26T21:32:11Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 5580.0,
+    "elevation_gain": 34.0,
+    "id": "18706703043",
+    "moving_time": 1906.0,
+    "name": "Night Run...mas continua um calor do dem\u00f3nio \u26b0\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-29T20:55:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
