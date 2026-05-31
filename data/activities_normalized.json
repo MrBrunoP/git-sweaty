@@ -10930,5 +10930,18 @@
     "start_date_local": "2026-05-29T20:55:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 10113.1,
+    "elevation_gain": 61.0,
+    "id": "18725127993",
+    "moving_time": 3021.0,
+    "name": "Corridas depois de mar\u00e7o n\u00e3o \u00e9 para mim \ud83e\udee0 \ud83d\udc80",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T09:05:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
