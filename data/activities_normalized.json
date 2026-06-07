@@ -10969,5 +10969,31 @@
     "start_date_local": "2026-06-04T09:05:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 682.0,
+    "elevation_gain": 4.0,
+    "id": "18815166488",
+    "moving_time": 288.0,
+    "name": "Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-06T21:25:16Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 9903.6,
+    "elevation_gain": 109.0,
+    "id": "18815773881",
+    "moving_time": 2998.0,
+    "name": "Night Run Vila Real 2026 \ud83c\udfc3\ud83d\udca8",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-06T21:59:55Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
