@@ -10995,5 +10995,31 @@
     "start_date_local": "2026-06-06T21:59:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 5064.0,
+    "elevation_gain": 19.0,
+    "id": "18842051933",
+    "moving_time": 1494.0,
+    "name": "Night Run \ud83e\udd89\u2728",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-08T21:01:53Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 801.0,
+    "elevation_gain": 13.0,
+    "id": "18842052132",
+    "moving_time": 374.0,
+    "name": "Cool down \ud83d\udc19\ud83e\udee7",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-08T21:27:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
