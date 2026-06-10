@@ -11021,5 +11021,18 @@
     "start_date_local": "2026-06-08T21:27:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 7198.0,
+    "elevation_gain": 38.0,
+    "id": "18862455830",
+    "moving_time": 2362.0,
+    "name": "Taper 400s Run \ud83c\udfc3\ud83d\udca8",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-10T10:40:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
