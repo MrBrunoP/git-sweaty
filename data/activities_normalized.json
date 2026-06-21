@@ -11086,5 +11086,18 @@
     "start_date_local": "2026-06-18T20:51:59Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 15133.5,
+    "elevation_gain": 848.0,
+    "id": "19008986540",
+    "moving_time": 8719.0,
+    "name": "Trail Tresminas \u26b1\ufe0f\ud83e\udd75",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-21T09:33:38Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
