@@ -11099,5 +11099,44 @@
     "start_date_local": "2026-06-21T09:33:38Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 15000.0,
+    "elevation_gain": 0.0,
+    "id": "19073740633",
+    "moving_time": 10200.0,
+    "name": "Morning Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-21T08:30:00Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 376.0,
+    "elevation_gain": 24.0,
+    "id": "19065086180",
+    "moving_time": 276.0,
+    "name": "Cool down Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-25T19:34:31Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 7040.3,
+    "elevation_gain": 63.0,
+    "id": "19065086567",
+    "moving_time": 2226.0,
+    "name": "Evening Run \ud83c\udfc3\ud83d\udca8",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-25T18:56:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

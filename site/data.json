@@ -5977,6 +5977,27 @@
       "subtype": "TrailRun",
       "type": "TrailRun",
       "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 8,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-25",
+      "hour": 19,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-25",
+      "hour": 18,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11435,6 +11456,15 @@
           "distance": 101.0,
           "elevation_gain": 0.0,
           "moving_time": 151.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19073740633"
+          ],
+          "count": 1,
+          "distance": 15000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 10200.0
         }
       },
       "MountainBikeRide": {
@@ -12033,6 +12063,15 @@
           "distance": 10466.2,
           "elevation_gain": 128.0,
           "moving_time": 3753.0
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "19065086567"
+          ],
+          "count": 1,
+          "distance": 7040.3,
+          "elevation_gain": 63.0,
+          "moving_time": 2226.0
         }
       },
       "TrailRun": {
@@ -12296,6 +12335,15 @@
           "distance": 1009.4,
           "elevation_gain": 36.0,
           "moving_time": 611.0
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "19065086180"
+          ],
+          "count": 1,
+          "distance": 376.0,
+          "elevation_gain": 24.0,
+          "moving_time": 276.0
         }
       },
       "Workout": {
@@ -12439,7 +12487,7 @@
       }
     }
   },
-  "generated_at": "2026-06-25T17:08:37.885105+00:00",
+  "generated_at": "2026-06-26T16:58:00.746435+00:00",
   "other_bucket": "OtherSports",
   "repo": "MrBrunoP/git-sweaty",
   "source": "strava",
