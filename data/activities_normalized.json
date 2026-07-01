@@ -11138,5 +11138,31 @@
     "start_date_local": "2026-06-25T18:56:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 387.7,
+    "elevation_gain": 25.0,
+    "id": "19129359738",
+    "moving_time": 269.0,
+    "name": "Cool down",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-30T22:06:18Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 12232.5,
+    "elevation_gain": 81.0,
+    "id": "19129359865",
+    "moving_time": 4376.0,
+    "name": "Evening Run \ud83d\udc7d",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-30T20:51:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
