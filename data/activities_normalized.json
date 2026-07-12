@@ -11242,5 +11242,44 @@
     "start_date_local": "2026-07-09T18:15:10Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 2411.6,
+    "elevation_gain": 32.0,
+    "id": "19274131601",
+    "moving_time": 1801.0,
+    "name": "Night Walk \ud83d\udc08\u200d\u2b1b",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-11T21:31:24Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 2651.0,
+    "elevation_gain": 76.0,
+    "id": "19280297583",
+    "moving_time": 1480.0,
+    "name": "Morning Walk \ud83e\udd63",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-12T11:31:57Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 7290.8,
+    "elevation_gain": 246.0,
+    "id": "19283477142",
+    "moving_time": 4831.0,
+    "name": "Passear os c\u00e3es dos outros \ud83d\udc15\ud83d\udca8",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-12T14:16:18Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
