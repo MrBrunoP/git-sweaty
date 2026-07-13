@@ -11258,10 +11258,10 @@
   },
   {
     "date": "2026-07-12",
-    "distance": 2651.0,
-    "elevation_gain": 76.0,
+    "distance": 2217.0,
+    "elevation_gain": 68.0,
     "id": "19280297583",
-    "moving_time": 1480.0,
+    "moving_time": 1414.0,
     "name": "Morning Walk \ud83e\udd63",
     "raw_activity_type": "Walk",
     "raw_type": "Walk",

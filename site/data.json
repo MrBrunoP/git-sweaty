@@ -12509,9 +12509,9 @@
             "19280297583"
           ],
           "count": 1,
-          "distance": 2651.0,
-          "elevation_gain": 76.0,
-          "moving_time": 1480.0
+          "distance": 2217.0,
+          "elevation_gain": 68.0,
+          "moving_time": 1414.0
         }
       },
       "Workout": {
@@ -12655,7 +12655,7 @@
       }
     }
   },
-  "generated_at": "2026-07-12T15:55:09.235078+00:00",
+  "generated_at": "2026-07-13T17:10:11.087086+00:00",
   "other_bucket": "OtherSports",
   "repo": "MrBrunoP/git-sweaty",
   "source": "strava",
