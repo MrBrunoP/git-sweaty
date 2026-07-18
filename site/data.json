@@ -6089,6 +6089,27 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-07-17",
+      "hour": 22,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-17",
+      "hour": 21,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-18",
+      "hour": 10,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12209,6 +12230,15 @@
           "distance": 8340.0,
           "elevation_gain": 49.0,
           "moving_time": 2887.0
+        },
+        "2026-07-17": {
+          "activity_ids": [
+            "19354613140"
+          ],
+          "count": 1,
+          "distance": 10016.0,
+          "elevation_gain": 80.0,
+          "moving_time": 3230.0
         }
       },
       "TrailRun": {
@@ -12544,6 +12574,24 @@
           "distance": 510.0,
           "elevation_gain": 33.0,
           "moving_time": 400.0
+        },
+        "2026-07-17": {
+          "activity_ids": [
+            "19354613104"
+          ],
+          "count": 1,
+          "distance": 490.0,
+          "elevation_gain": 9.0,
+          "moving_time": 341.0
+        },
+        "2026-07-18": {
+          "activity_ids": [
+            "19360883217"
+          ],
+          "count": 1,
+          "distance": 3137.5,
+          "elevation_gain": 9.0,
+          "moving_time": 2309.0
         }
       },
       "Workout": {
@@ -12687,7 +12735,7 @@
       }
     }
   },
-  "generated_at": "2026-07-17T16:10:34.223932+00:00",
+  "generated_at": "2026-07-18T15:51:33.870466+00:00",
   "other_bucket": "OtherSports",
   "repo": "MrBrunoP/git-sweaty",
   "source": "strava",
