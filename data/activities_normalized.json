@@ -11385,5 +11385,18 @@
     "start_date_local": "2026-07-24T19:34:56Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 9149.0,
+    "elevation_gain": 520.0,
+    "id": "19472545481",
+    "moving_time": 8738.0,
+    "name": "Senhora da Serra - Mar\u00e3o \u26f0\ufe0f",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-26T08:43:09Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
