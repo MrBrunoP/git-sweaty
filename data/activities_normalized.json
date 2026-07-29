@@ -11398,5 +11398,18 @@
     "start_date_local": "2026-07-26T08:43:09Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 19118.6,
+    "elevation_gain": 24.2,
+    "id": "19503581543",
+    "moving_time": 2428.0,
+    "name": "MyWhoosh - Al Qudra \ud83e\uddd8",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-28T17:07:17Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
