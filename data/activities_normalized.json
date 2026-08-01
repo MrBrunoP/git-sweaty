@@ -11411,5 +11411,31 @@
     "start_date_local": "2026-07-28T17:07:17Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 2478.7,
+    "elevation_gain": 36.0,
+    "id": "19547168368",
+    "moving_time": 1325.0,
+    "name": "Cool Down \ud83e\uddb5\u26d3\ufe0f\u200d\ud83d\udca5",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-31T21:22:58Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 17750.7,
+    "elevation_gain": 166.0,
+    "id": "19547168479",
+    "moving_time": 6125.0,
+    "name": "M\u00edtica: Sabrosa - Vila Real \ud83c\udfc3\ud83d\udca8",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-31T19:38:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
