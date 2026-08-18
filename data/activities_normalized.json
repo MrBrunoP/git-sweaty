@@ -11606,5 +11606,31 @@
     "start_date_local": "2026-08-16T19:43:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 465.0,
+    "elevation_gain": 0.0,
+    "id": "19791402803",
+    "moving_time": 184.0,
+    "name": "Lunch Run Warm up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-18T11:47:05Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 3157.2,
+    "elevation_gain": 0.0,
+    "id": "19791402869",
+    "moving_time": 879.0,
+    "name": "Carrera Popular de Portonovo - IV Memorial Rafael\r\nGonz\u00e1lez \u201cMichu\u201d \u2600\ufe0f 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-18T11:58:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
