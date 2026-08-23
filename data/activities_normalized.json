@@ -11645,5 +11645,18 @@
     "start_date_local": "2026-08-19T08:58:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 8043.4,
+    "elevation_gain": 144.0,
+    "id": "19862111598",
+    "moving_time": 2967.0,
+    "name": "Passeio de Domingo \ud83c\udfde\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-08-23T10:15:39Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
