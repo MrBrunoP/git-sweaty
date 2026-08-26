@@ -11671,5 +11671,31 @@
     "start_date_local": "2026-08-25T12:21:07Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 5007.0,
+    "elevation_gain": 12.0,
+    "id": "19897296185",
+    "moving_time": 2101.0,
+    "name": "Carrerita con mi chica \ud83d\udc95",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-25T19:43:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 139.0,
+    "elevation_gain": 0.0,
+    "id": "19905918284",
+    "moving_time": 721.0,
+    "name": "Lunch Swim \ud83c\udfb1",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-26T11:33:04Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
