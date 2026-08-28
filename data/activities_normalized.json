@@ -11736,5 +11736,31 @@
     "start_date_local": "2026-08-26T19:21:10Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 287.6,
+    "elevation_gain": 3.0,
+    "id": "19935568013",
+    "moving_time": 175.0,
+    "name": "Corridinha na \u00e1gua",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-08-28T11:04:54Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 202.5,
+    "elevation_gain": 0.0,
+    "id": "19935568060",
+    "moving_time": 875.0,
+    "name": "Morning Swim \ud83c\udf0a",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-28T11:11:15Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
