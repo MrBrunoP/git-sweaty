@@ -11762,5 +11762,18 @@
     "start_date_local": "2026-08-28T11:11:15Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 8099.0,
+    "elevation_gain": 148.0,
+    "id": "19996696570",
+    "moving_time": 3166.0,
+    "name": "Rampas \ud83e\udea6",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-01T21:26:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
