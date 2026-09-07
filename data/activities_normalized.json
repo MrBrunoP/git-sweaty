@@ -11801,5 +11801,31 @@
     "start_date_local": "2026-09-05T19:29:48Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 4009.1,
+    "elevation_gain": 24.0,
+    "id": "20067316310",
+    "moving_time": 1179.0,
+    "name": "4K Night Run \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-06T21:57:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 1810.7,
+    "elevation_gain": 48.0,
+    "id": "20072876443",
+    "moving_time": 744.0,
+    "name": "Cool Down Climb \ud83e\udeb5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-06T22:20:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
