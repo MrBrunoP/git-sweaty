@@ -11827,5 +11827,18 @@
     "start_date_local": "2026-09-06T22:20:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 8431.0,
+    "elevation_gain": 240.0,
+    "id": "20121979048",
+    "moving_time": 3296.0,
+    "name": "Rampas V2 \u26b0\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-10T20:24:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
