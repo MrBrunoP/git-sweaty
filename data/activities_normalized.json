@@ -11879,5 +11879,31 @@
     "start_date_local": "2026-09-16T20:55:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 4033.8,
+    "elevation_gain": 22.0,
+    "id": "20237294862",
+    "moving_time": 1716.0,
+    "name": "Morning Run with the lady \ud83d\udc83",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-19T09:54:24Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 784.0,
+    "elevation_gain": 15.0,
+    "id": "20237459103",
+    "moving_time": 626.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-19T10:29:57Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
