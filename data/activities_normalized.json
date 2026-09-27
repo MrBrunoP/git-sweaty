@@ -11983,5 +11983,31 @@
     "start_date_local": "2026-09-26T18:16:59Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 200.0,
+    "elevation_gain": 0.0,
+    "id": "20341690608",
+    "moving_time": 58.0,
+    "name": "1\u00aa Rampa dos Ferreiros \ud83c\udfc1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-26T18:47:04Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 6938.5,
+    "elevation_gain": 266.0,
+    "id": "20354455980",
+    "moving_time": 7131.0,
+    "name": "PR18 ALJ | Trilho de S\u00e3o Mamede de Ribatua - Vale do Tua",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-09-27T14:59:22Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
