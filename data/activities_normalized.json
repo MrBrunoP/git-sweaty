@@ -12061,5 +12061,31 @@
     "start_date_local": "2026-09-30T18:05:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 11839.5,
+    "elevation_gain": 58.0,
+    "id": "20429987830",
+    "moving_time": 3832.0,
+    "name": "Morning Run \ud83c\udf5e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-03T09:24:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 435.0,
+    "elevation_gain": 26.0,
+    "id": "20430072384",
+    "moving_time": 334.0,
+    "name": "Cool down Morning Run",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-03T10:30:43Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
