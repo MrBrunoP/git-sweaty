@@ -12139,5 +12139,57 @@
     "start_date_local": "2026-10-11T16:18:57Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 4666.2,
+    "elevation_gain": 77.0,
+    "id": "20573153859",
+    "moving_time": 1724.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-13T20:54:12Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 16.0,
+    "elevation_gain": 0.0,
+    "id": "20573153946",
+    "moving_time": 33.0,
+    "name": "Evening Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-10-13T20:51:01Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 196.7,
+    "elevation_gain": 19.0,
+    "id": "20573153952",
+    "moving_time": 177.0,
+    "name": "Night Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-13T21:23:49Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 5253.8,
+    "elevation_gain": 96.0,
+    "id": "20573153957",
+    "moving_time": 2071.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-13T20:14:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
