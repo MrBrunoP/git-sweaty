@@ -12159,7 +12159,7 @@
     "elevation_gain": 0.0,
     "id": "20573153946",
     "moving_time": 33.0,
-    "name": "Evening Workout",
+    "name": "Workout Bars",
     "raw_activity_type": "Workout",
     "raw_type": "Workout",
     "start_date_local": "2026-10-13T20:51:01Z",
@@ -12172,7 +12172,7 @@
     "elevation_gain": 19.0,
     "id": "20573153952",
     "moving_time": 177.0,
-    "name": "Night Walk",
+    "name": "Cool Down Walk",
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-10-13T21:23:49Z",
@@ -12190,6 +12190,32 @@
     "raw_type": "Run",
     "start_date_local": "2026-10-13T20:14:51Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 9920.0,
+    "elevation_gain": 173.0,
+    "id": "20573341738",
+    "moving_time": 3794.0,
+    "name": "Lentinho \ud83d\udc0c\ud83d\udca8",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-13T20:14:51Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 3660.0,
+    "elevation_gain": 0.0,
+    "id": "20586094628",
+    "moving_time": 3364.0,
+    "name": "Evening Football \u26bd",
+    "raw_activity_type": "Soccer",
+    "raw_type": "Soccer",
+    "start_date_local": "2026-10-14T18:23:45Z",
+    "type": "Soccer",
     "year": 2026
   }
 ]

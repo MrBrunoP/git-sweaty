@@ -6565,6 +6565,20 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-10-13",
+      "hour": 20,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-14",
+      "hour": 18,
+      "subtype": "Soccer",
+      "type": "Soccer",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13004,12 +13018,24 @@
         "2026-10-13": {
           "activity_ids": [
             "20573153859",
-            "20573153957"
+            "20573153957",
+            "20573341738"
           ],
-          "count": 2,
-          "distance": 9920.0,
-          "elevation_gain": 173.0,
-          "moving_time": 3795.0
+          "count": 3,
+          "distance": 19840.0,
+          "elevation_gain": 346.0,
+          "moving_time": 7589.0
+        }
+      },
+      "Soccer": {
+        "2026-10-14": {
+          "activity_ids": [
+            "20586094628"
+          ],
+          "count": 1,
+          "distance": 3660.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3364.0
         }
       },
       "Swim": {
@@ -13735,7 +13761,7 @@
       }
     }
   },
-  "generated_at": "2026-10-13T20:28:33.081945+00:00",
+  "generated_at": "2026-10-14T19:08:01.514014+00:00",
   "other_bucket": "OtherSports",
   "repo": "MrBrunoP/git-sweaty",
   "source": "strava",
@@ -13776,6 +13802,10 @@
       "accent": "#01cdfe",
       "label": "Run"
     },
+    "Soccer": {
+      "accent": "#00f5d4",
+      "label": "Soccer"
+    },
     "Swim": {
       "accent": "#3a86ff",
       "label": "Swim"
@@ -13814,6 +13844,7 @@
     "Ride",
     "RockClimbing",
     "Run",
+    "Soccer",
     "Swim",
     "TrailRun",
     "VirtualRide",
