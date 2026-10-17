@@ -12217,5 +12217,18 @@
     "start_date_local": "2026-10-14T18:23:45Z",
     "type": "Soccer",
     "year": 2026
+  },
+  {
+    "date": "2026-10-16",
+    "distance": 7036.0,
+    "elevation_gain": 61.0,
+    "id": "20612849991",
+    "moving_time": 2578.0,
+    "name": "Easy Night Run \ud83c\udf12",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-16T19:42:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
