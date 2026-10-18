@@ -12230,5 +12230,31 @@
     "start_date_local": "2026-10-16T19:42:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 13279.0,
+    "elevation_gain": 522.0,
+    "id": "20631149230",
+    "moving_time": 6552.0,
+    "name": "Morning Trail Run \u26f0\ufe0f\u2615",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-10-18T08:08:54Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 1023.0,
+    "elevation_gain": 59.0,
+    "id": "20636457347",
+    "moving_time": 1038.0,
+    "name": "Apanhar Pinhas \ud83c\udf32",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-18T14:24:35Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
