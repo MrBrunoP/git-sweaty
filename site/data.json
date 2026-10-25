@@ -6621,6 +6621,34 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 9,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 10,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 9,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 15,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13085,6 +13113,16 @@
           "distance": 4684.6,
           "elevation_gain": 23.0,
           "moving_time": 1417.0
+        },
+        "2026-10-25": {
+          "activity_ids": [
+            "20724649032",
+            "20724649565"
+          ],
+          "count": 2,
+          "distance": 11096.8,
+          "elevation_gain": 63.0,
+          "moving_time": 3322.0
         }
       },
       "Soccer": {
@@ -13676,6 +13714,16 @@
           "distance": 561.2,
           "elevation_gain": 37.0,
           "moving_time": 391.0
+        },
+        "2026-10-25": {
+          "activity_ids": [
+            "20722315308",
+            "20728339448"
+          ],
+          "count": 2,
+          "distance": 2996.2000000000003,
+          "elevation_gain": 28.0,
+          "moving_time": 2062.0
         }
       },
       "WeightTraining": {
@@ -13857,7 +13905,7 @@
       }
     }
   },
-  "generated_at": "2026-10-24T17:46:10.452610+00:00",
+  "generated_at": "2026-10-25T18:02:35.079149+00:00",
   "other_bucket": "OtherSports",
   "repo": "MrBrunoP/git-sweaty",
   "source": "strava",
