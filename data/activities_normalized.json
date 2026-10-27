@@ -12347,5 +12347,31 @@
     "start_date_local": "2026-10-25T15:54:54Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 162.0,
+    "elevation_gain": 0.0,
+    "id": "20754896102",
+    "moving_time": 63.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-27T18:37:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 3606.8,
+    "elevation_gain": 115.0,
+    "id": "20755391753",
+    "moving_time": 1444.0,
+    "name": "Alternating Hill Reps \ud83e\udd96",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-27T18:40:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
