@@ -12386,5 +12386,44 @@
     "start_date_local": "2026-10-28T18:24:21Z",
     "type": "Soccer",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 6599.1,
+    "elevation_gain": 84.0,
+    "id": "20796069551",
+    "moving_time": 2283.0,
+    "name": "Night Run \ud83c\udf54\ud83c\udf5f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-30T21:05:46Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 3820.0,
+    "elevation_gain": 81.0,
+    "id": "20802067924",
+    "moving_time": 3295.0,
+    "name": "V Caminhada USF Corgo \ud83d\udd35\ud83d\udfe2",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-31T10:01:44Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 2299.1,
+    "elevation_gain": 45.0,
+    "id": "20807181426",
+    "moving_time": 1982.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-31T16:05:33Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
