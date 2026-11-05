@@ -12438,5 +12438,31 @@
     "start_date_local": "2026-11-01T07:41:13Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 4709.9,
+    "elevation_gain": 52.0,
+    "id": "20862126625",
+    "moving_time": 1485.0,
+    "name": "Threshold Afterglow, Legs on the Line",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-04T20:57:07Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 162.5,
+    "elevation_gain": 20.0,
+    "id": "20862148098",
+    "moving_time": 143.0,
+    "name": "Warm Down",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-04T21:22:31Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
