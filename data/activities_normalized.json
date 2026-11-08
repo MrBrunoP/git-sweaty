@@ -12464,5 +12464,18 @@
     "start_date_local": "2026-11-04T21:22:31Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 21818.6,
+    "elevation_gain": 1112.0,
+    "id": "20907445390",
+    "moving_time": 11280.0,
+    "name": "Trilho dos Linces 2026 \ud83d\udc3a",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-11-08T08:59:37Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
