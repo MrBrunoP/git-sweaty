@@ -12477,5 +12477,18 @@
     "start_date_local": "2026-11-08T08:59:37Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 3334.0,
+    "elevation_gain": 90.0,
+    "id": "20945167325",
+    "moving_time": 1175.0,
+    "name": "Short Hill Reps \u2614",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-11T11:03:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
