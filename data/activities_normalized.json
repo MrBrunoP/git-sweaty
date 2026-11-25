@@ -12542,5 +12542,18 @@
     "start_date_local": "2026-11-22T08:59:36Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-11-25",
+    "distance": 5998.3,
+    "elevation_gain": 39.5,
+    "id": "21124111861",
+    "moving_time": 5314.0,
+    "name": "Evening Football \u26bd",
+    "raw_activity_type": "Soccer",
+    "raw_type": "Soccer",
+    "start_date_local": "2026-11-25T18:31:51Z",
+    "type": "Soccer",
+    "year": 2026
   }
 ]
